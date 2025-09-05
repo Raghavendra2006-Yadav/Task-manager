@@ -1,0 +1,45 @@
+/* div{
+    background-Color: aqua;
+    height: 200px;
+    width: 400px;
+}
+ol{
+    background-Color: aquamarine;
+    height: 110px;
+    width:10px;
+    
+}
+li{
+    background-Color: burlywood;
+    height: 30px;
+    width: 50px;
+} */
+body{
+    background-color: bisque;
+    text-align: center;
+    margin: auto;
+}
+h1{
+     height: 40px;
+    width: 200px; 
+    margin:0  auto;
+    text-align: center;
+    background-color: aliceblue;
+    color: rgb(8, 106, 73);
+    
+
+}
+li{
+    font-size: 30px;
+    background-color: aquamarine;
+    height:50px;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+}
+input{
+    background-color: rgb(231, 227, 228);
+    color: darkred;
+    height:30px;
+    width:200px;
+}
